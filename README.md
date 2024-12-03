@@ -6,23 +6,25 @@ This project focuses on the analysis of molecular dynamics simulations using adv
 
 ## Repository Structure
 
-- **data/**  
+- **[data/](data/)**  
   Datasets utilized in the analysis
 
-- **Analysis.ipynb**  
+- **[Analysis.ipynb](Analysis.ipynb)**  
   Jupyter Notebook containing the comprehensive analysis
 
-- **sequence.ipynb**  
+- **[sequence.ipynb](sequence.ipynb)**  
   Jupyter Notebook for sequence analysis
 
-- **timestamp.py**  
+- **[timestamp.py](timestamp.py)**  
   Python script for timestamp processing
 
-- **article_pyemma.pdf**  
+- **[article_pyemma.pdf](article_pyemma.pdf)**  
   Detailed article on PyEMMA and its applications
   
-- **report.pdf**  
+- **[report.pdf](report.pdf)**  
   Detailed report about the objectives, carried out steps and the results of this project
 
-- **README.md**  
+- **[README.md](README.md)**  
   Project overview and instructions
+
+  
