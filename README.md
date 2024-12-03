@@ -20,6 +20,9 @@ This project focuses on the analysis of molecular dynamics simulations using adv
 
 - **article_pyemma.pdf**  
   Detailed article on PyEMMA and its applications
+  
+- **report.pdf**  
+  Detailed report about the objectives, carried out steps and the results of this project
 
 - **README.md**  
   Project overview and instructions
