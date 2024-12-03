@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the analysis of molecular dynamics simulations using advanced computational tools, including PyEMMA—a Python library for Markov state model (MSM) analysis of extensive molecular dynamics (MD) simulations. :contentReference[oaicite:0]{index=0}
+This project focuses on the analysis of molecular dynamics simulations using advanced computational tools, including PyEMMA—a Python library for Markov state model (MSM) analysis of extensive molecular dynamics (MD) simulations.
 
 ## Repository Structure
 
